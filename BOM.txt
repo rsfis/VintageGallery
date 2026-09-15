@@ -1,9 +1,0 @@
-SWITCH: https://pt.aliexpress.com/item/1005007009962182.html?spm=a2g0o.productlist.main.14.318532a6Lne0L2&algo_pvid=1ae4e8e8-c741-4f19-8c20-0ef5f52b4779&algo_exp_id=1ae4e8e8-c741-4f19-8c20-0ef5f52b4779-13&pdp_ext_f=%7B%22order%22%3A%2211006%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007009962182%22%2C%22orig_item_id%22%3A%221005012946043579%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21BRL%2111.76%215.17%21%21%2114.10%216.20%21%402103117b17894325018182349e1031%2112000039047852711%21sea%21BR%214588435900%21X%211%210%21n_tag%3A-29919%3Bd%3Ab108f459%3Bm03_new_user%3A-29895&curPageLogUid=qqtR8godhvOq&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007009962182%7C_p_origin_prod%3A1005012946043579
-
-TELA: https://pt.aliexpress.com/item/1005005995931721.html?spm=a2g0o.order_list.order_list_main.50.73bccaa4IhmD2U&gatewayAdapt=glo2bra
-
-ESP32 e CAMERA: https://pt.aliexpress.com/item/1005007307989319.html?pdp_ext_f=%7B%22sku_id%22%3A%2212000053504005404%22%7D&sourceType=1&spm=a2g0o.wish-manage-home.0.0&gatewayAdapt=glo2bra
-
-MODULO CARREGAMENTO BATERIAS: https://www.mercadolivre.com.br/carregador-bateria-de-litio-5v-2a-conversor-step-up-usbc/up/MLBU3722535507?pdp_filters=item_id:MLB4418035779&sid=purchases
-
-BATERIA: https://www.mercadolivre.com.br/1-unidade-505573-2-fios-3000mah-37v-5mm-x-55mm-x-73mm/p/MLB2081347995?pdp_filters=item_id:MLB1929447427&sid=purchases
